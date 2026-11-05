@@ -1,0 +1,6 @@
+# 原始资料只保留在本机，不进入版本库。
+/原始数据/
+
+# 运行时的数据库、原始请求、日志和测试接收数据。
+/message-system/storage/*
+!/message-system/storage/.htaccess

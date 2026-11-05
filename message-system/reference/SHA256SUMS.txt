@@ -1,0 +1,8 @@
+a80894d0c25f6a93ef71e1f653aa8c64049b1ff9c170b18616eef2af3e09b162 *message-system/reference/legacy-php/mms_receive.php
+fa874b92fecf2367685d2eb3cc06272ff6a129d5384c0049a3e8e6c5fd42343a *message-system/reference/legacy-php/sms_forward.php
+36cb432d7844c30670c4f507e078699020e1510fb9636125851a097c8f11f5eb *message-system/reference/legacy-php/sms_status_report.php
+93cacdbc339b7325e9d222d4136abc1268862327afce4769be65442428ddbce6 *message-system/reference/legacy-php/status_note.php
+96bf0708d9232b9741bb680820a5de6b3126db5d77f3222a82d12622584a95d1 *message-system/reference/protocol/ETMS API.docx
+5c2a580987c710c04f176f24418cd21312b9de3c2100a0bc2fbc24cc13e4ba87 *message-system/reference/protocol/SKYLINE EIMS HTTP API_V3.5 CN.docx
+e721084ea769f350f65883fdfc0e2ad3697e1a1c7c8e9453b3f88664a2c36f18 *message-system/reference/protocol/SKYLINE Gateway HTTP APIV2.4.0-EN.pdf
+bfe93c9b2ed2212bb9490dfd646d1e1bfbd8bba6090d6307f7efeffa4751998e *message-system/reference/protocol/SKYLINE-Gateway-HTTP-API2.4.0-CN.pdf

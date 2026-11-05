@@ -1,0 +1,7 @@
+Sender: 10001
+Receiver: "1.01"
+SMSC: 10086
+SCTS: 250327005127A8
+Slot: "01"
+
+HTTP 原始短信测试 👋
